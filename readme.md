@@ -287,14 +287,6 @@ After cloning and linking/installing globally (`npm link`), just run the transpi
 
 Ideas, feature requests and PRs are welcome. Just keep it simple! 🤓
 
-## Credits
-
-I want to thank the following people:
-
-- [imcvampire](https://github.com/imcvampire) for handing over the npm package name.
-- [Sindre Sorhus](https://github.com/sindresorhus) and [Vercel](https://github.com/vercel) (formerly _Zeit_) for inspiration on how to write CLI tools.
-- [Josh Bruce](https://github.com/joshbruce) for [reviving Marked](https://github.com/markedjs/marked/issues/1106).
-
 ## License
 
 [MIT](/license).
